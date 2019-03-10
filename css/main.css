@@ -1349,7 +1349,7 @@ header .header-logo a {
  * off-canvas menu - (_layout.scss)
  * ------------------------------------------------------------------- */
 #menu-nav-wrap {
-  background: #0C0C0C;
+  background: #8eb2ce;
   color: rgba(255, 255, 255, 0.25);
   font-size: 1.5rem;
   line-height: 1.6;
@@ -2009,7 +2009,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 #portfolio .intro-wrap {
   padding: 15rem 0 21rem;
-  background: #111111;
+  background: #96B4A5;
 }
 #portfolio .section-intro h3 {
   color: rgba(242, 242, 242, 0.5);
