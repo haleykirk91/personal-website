@@ -85,7 +85,7 @@ a, a:visited {
 }
 
 a:hover, a:focus {
-  color: #000000;
+  color: #372A28;
 }
 
 
@@ -632,7 +632,7 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-  color: #000000;
+  color: #372A28;
 }
 
 label, legend {
@@ -751,7 +751,7 @@ input[type="submit"]:focus,
 input[type="reset"]:focus,
 input[type="button"]:focus {
   background: #989898;
-  color: #000000;
+  color: #372A28;
   outline: 0;
 }
 
@@ -1297,10 +1297,10 @@ header .header-logo a {
   transition: all 0.3s ease-in-out;
 }
 #header-menu-trigger.opaque {
-  background-color: #000000;
+  background-color: #372A28;
 }
 #header-menu-trigger.opaque .header-menu-text {
-  background-color: #000000;
+  background-color: #372A28;
 }
 #header-menu-trigger:hover, #header-menu-trigger:focus {
   color: #FFFFFF;
@@ -2146,7 +2146,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 .bricks-wrapper .item-wrap .details-link:hover, .bricks-wrapper .item-wrap .details-link:focus {
   background-color: #FFFFFF;
-  color: #000000;
+  color: #372A28;
 }
 .bricks-wrapper .item-wrap .item-text, .bricks-wrapper .item-wrap .details-link {
   opacity: 0;
@@ -2368,7 +2368,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   background-color: #555555;
 }
 #testimonials .flex-control-paging li a.flex-active {
-  background-color: #000000;
+  background-color: #372A28;
 }
 
 /* -------------------------------------------------------------------
@@ -2495,7 +2495,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 #clients .owl-carousel .owl-dots .owl-dot.active span,
 #clients .owl-carousel .owl-dots .owl-dot:hover span {
-  background-color: #000000;
+  background-color: #372A28;
 }
 
 
@@ -2521,7 +2521,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   width: 100%;
   height: 100%;
   opacity: .75;
-  background-color: #000000;
+  background-color: #372A28;
 }
 #contact .section-intro h1 {
   color: white;
@@ -2580,7 +2580,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   letter-spacing: .05rem;
   padding: .6rem 2rem .6rem 2rem;
   margin: 0;
-  color: #000000;
+  color: #372A28;
   background: #f9a828;
   border-radius: 3px;
 }
@@ -2645,7 +2645,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   padding: 0 3rem;
   width: 100%;
   background: #f9a828;
-  color: #000000;
+  color: #372A28;
   margin-top: .6rem;
 }
 #contact button.submitform:hover, #contact button.submitform:focus {
@@ -2654,7 +2654,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 
 #message-warning, #message-success {
   display: none;
-  background: #000000;
+  background: #372A28;
   padding: 3rem;
   margin-bottom: 3.6rem;
   width: 100%;
@@ -2865,7 +2865,7 @@ footer h4.h05::after {
 }
 .footer-main #mc-form button {
   background-color: #f9a828;
-  color: #000000;
+  color: #372A28;
   width: 6rem;
   height: 6rem;
   line-height: 6rem;
@@ -2926,7 +2926,7 @@ footer h4.h05::after {
   width: 60px;
   line-height: 63px;
   text-align: center;
-  background-color: #000000;
+  background-color: #372A28;
   color: #888;
   text-align: center;
   text-transform: uppercase;
@@ -2941,11 +2941,11 @@ footer h4.h05::after {
   line-height: inherit;
 }
 #go-top a:visited {
-  background: #000000;
+  background: #372A28;
   color: #888;
 }
 #go-top a:hover, #go-top a:focus {
-  background: #000000;
+  background: #372A28;
   color: #FFFFFF;
 }
 
