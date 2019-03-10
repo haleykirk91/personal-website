@@ -63,11 +63,11 @@ html, body {
 }
 
 body {
-  background: #111111;
+  background: #4A322E;
   font-family: 'Josefin Sans', sans-serif;
   font-size: 1.6rem;
   line-height: 3rem;
-  color: #353535;
+  color: #372A28;
   margin: 0;
   padding: 0;
 }
@@ -1349,7 +1349,7 @@ header .header-logo a {
  * off-canvas menu - (_layout.scss)
  * ------------------------------------------------------------------- */
 #menu-nav-wrap {
-  background: #8eb2ce;
+  background: #4A322E;
   color: rgba(255, 255, 255, 0.25);
   font-size: 1.5rem;
   line-height: 1.6;
