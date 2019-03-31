@@ -471,7 +471,7 @@ td:last-child {
 }
 
 .pace .pace-progress {
-  background: #f9a828;
+  background: #e3ae65;
   position: fixed;
   z-index: 900;
   top: 0;
@@ -510,7 +510,7 @@ td:last-child {
   margin-left: -30px;
   margin-top: -30px;
   padding: 0;
-  background-color: #f9a828;
+  background-color: #e3ae65;
   border-radius: 100%;
   -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
   animation: sk-scaleout 1.0s infinite ease-in-out;
@@ -811,8 +811,8 @@ button.stroke.large, .button.stroke.large {
 }
 
 button.stroke:hover, .button.stroke:hover {
-  border: 3px solid #f9a828;
-  color: #f9a828;
+  border: 3px solid #e3ae65;
+  color: #e3ae65;
 }
 
 button::-moz-focus-inner,
@@ -1945,7 +1945,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 #services .services-list .icon i {
   font-size: 5.4rem;
-  color: #f9a828;
+  color: #e3ae65;
 }
 #services .services-list .h05 {
   font-size: 2rem;
@@ -2191,7 +2191,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   padding: 12px 20% 15px;
 }
 .lg-sub-html a, .lg-sub-html a:visited {
-  color: #f9a828;
+  color: #e3ae65;
 }
 .lg-sub-html a:hover, .lg-sub-html a:focus {
   color: #FFFFFF;
@@ -2223,7 +2223,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 
 .lg-outer .lg-thumb-item.active, .lg-outer .lg-thumb-item:hover {
-  border-color: #f9a828;
+  border-color: #e3ae65;
 }
 
 .lg-progress-bar .lg-progress {
@@ -2581,7 +2581,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   padding: .6rem 2rem .6rem 2rem;
   margin: 0;
   color: #372A28;
-  background: #f9a828;
+  background: #e3ae65;
   border-radius: 3px;
 }
 #contact form .form-field label::after {
@@ -2591,7 +2591,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   margin-top: -6px;
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
-  border-bottom: 5px solid #f9a828;
+  border-bottom: 5px solid #e3ae65;
   content: "";
 }
 #contact form ::-webkit-input-placeholder {
@@ -2644,7 +2644,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   line-height: 6rem;
   padding: 0 3rem;
   width: 100%;
-  background: #f9a828;
+  background: #e3ae65;
   color: #372A28;
   margin-top: .6rem;
 }
@@ -2665,7 +2665,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 
 #message-success {
-  color: #f9a828;
+  color: #e3ae65;
 }
 
 #message-warning i,
@@ -2807,7 +2807,7 @@ footer a, footer a:visited {
   color: #FFFFFF;
 }
 footer a:hover, footer a:focus {
-  color: #f9a828;
+  color: #e3ae65;
 }
 footer .row {
   max-width: 1024px;
@@ -2864,7 +2864,7 @@ footer h4.h05::after {
   background-color: rgba(0, 0, 0, 0.9);
 }
 .footer-main #mc-form button {
-  background-color: #f9a828;
+  background-color: #e3ae65;
   color: #372A28;
   width: 6rem;
   height: 6rem;
@@ -2886,7 +2886,7 @@ footer h4.h05::after {
   left: .2rem;
 }
 .footer-main #mc-form label {
-  color: #f9a828;
+  color: #e3ae65;
 
 }
 
