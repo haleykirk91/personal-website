@@ -311,7 +311,8 @@
 
 				$.ajax({
 			      type: "POST",
-			      url: "inc/sendEmail.php",
+						url: "haleykirk91@gmail.com",
+						// url: "inc/sendEmail.php",
 			      data: $(form).serialize(),
 
 			      beforeSend: function() {
