@@ -2844,7 +2844,7 @@ footer h4.h05::after {
   padding-left: 0;
 }
 .footer-main ul a, .footer-main ul a:visited {
-  color: rgba(255, 255, 255, 0.4);
+  color: #372A28;
 }
 .footer-main ul a:hover, .footer-main ul a:focus {
   color: #FFFFFF;
