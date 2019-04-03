@@ -1349,7 +1349,7 @@ header .header-logo a {
  * off-canvas menu - (_layout.scss)
  * ------------------------------------------------------------------- */
 #menu-nav-wrap {
-  background: #4A322E;
+  background: #2e383f;
   color: rgba(255, 255, 255, 0.25);
   font-size: 1.5rem;
   line-height: 1.6;
