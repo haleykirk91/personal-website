@@ -96,7 +96,7 @@ a:hover, a:focus {
 h1, h2, h3, h4, h5, h6,
 .h01, .h02, .h03, .h04, .h05, .h06 {
 
-  color: #151515;
+  color: #372A28;
   font-style: normal;
   text-rendering: optimizeLegibility;
   margin-bottom: 2.1rem;
@@ -2801,7 +2801,7 @@ footer {
   margin: 0 0 5.4rem 0;
   padding: 0;
   font-size: 1.5rem;
-  color: rgba(255, 255, 255);
+  color: #372A28;
 }
 footer a, footer a:visited {
   color: #FFFFFF;
