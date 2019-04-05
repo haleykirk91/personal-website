@@ -2861,10 +2861,10 @@ footer h4.h05::after {
   padding: 1.5rem 8rem 1.5rem 2rem;
   margin-bottom: 1.5rem;
   width: 100%;
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: #FFFFFF;
 }
 .footer-main #mc-form button {
-  background-color: #e3ae65;
+  background-color: #20282c;
   color: #20282c;
   width: 6rem;
   height: 6rem;
@@ -2886,7 +2886,7 @@ footer h4.h05::after {
   left: .2rem;
 }
 .footer-main #mc-form label {
-  color: #e3ae65;
+  color: #2e383f;
 
 }
 
